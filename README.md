@@ -1,4 +1,4 @@
-| **TarnRP-JobList**             |   |   |
+| **TarnRP-JobList**             |  Stay having fun!  |   |
 |----------------------------|---|---|
 | **President**              |   |   |
 | **Vice-President**         |   |   |

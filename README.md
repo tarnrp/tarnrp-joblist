@@ -8,7 +8,7 @@
 | **DEA**                    |   |   |
 | **Meth Cook**              |   |   |
 | **Weed Grower**            |   |   |
-| **Thief **                 |   |   |
+| **Thief**                  |   |   |
 | **Bank Robber**            |   |   |
 | **Hitman**                 |   |   |
 | **Vandalist**              |   |   |

@@ -1,6 +1,6 @@
 | **TarnRP-JobList**             |   |   |
 |----------------------------|---|---|
-| **President **             |   |   |
+| **President**              |   |   |
 | **Vice-President**         |   |   |
 | **Mayor**                  |   |   |
 | **Police Officer**         |   |   |
